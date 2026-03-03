@@ -12,4 +12,4 @@ A command-line Python application that helps users manage their monthly finances
 
 ## How to run
 1. Clone the repository
-2. Run `python budget_tracker.py` in your terminal
+2. Run `python Project1-Monthly-Budget-Tracker.py` in your terminal
